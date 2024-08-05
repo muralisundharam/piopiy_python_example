@@ -39,6 +39,21 @@ pip install -r requirements.txt
 
 This example provides detailed information on how to use the Piopiy package to manage various types of voice calls, including:
 
+
+#### [Call masking](/call_masking)
+
+- [Delivery agent to customer](/call_masking/delivery_agent_to_customer.md)
+
+- [Customer to delivery agent](/call_masking/customer_to_delivery_agent.md)
+
+#### [Transaction alert call](/transaction_alert_call/README.md)
+
+#### [Order confirmation call](/order_confirmation_call/README.md)
+
+#### [Outbound dialer](/outbound_dialer/README.md)
+
+#### [Inbound call center](/inbound_call_center/README.md)
+
 ### Call masking
 
 #### Delivery agent to customer
